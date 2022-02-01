@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/3aa362c006002e72239ac2b2a2c78f8e/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/a0490e35a2a739147f1295ca8f524add/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/700a0ffc6213dc237049b1ebb9f787a1/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [:data] /Users/hong_mergepoint/Desktop/study/github-user-search/data/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:domain] /Users/hong_mergepoint/Desktop/study/github-user-search/domain/build/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/f9dba528afc527db262bc6db6c94f9b8/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/d08ed6297d2c77527d83810315ecd657/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/805cf83984af131879a3d056711ae83c/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/ca62552be0f7f80467cd7d4800c04541/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-ktx:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/d1c44619b0f01036f633d26daa4d0a72/transformed/jetified-room-ktx-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3827a6304051f15694421e93cfabad19/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/014194ec22d83ed82ad3d80d66998e50/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/31d208215cbf338446d192892b2e6e02/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/hong_mergepoint/.gradle/caches/transforms-3/286f58492e31036afda8ac21a2520c05/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/8b807f09f6a1ecdf49c44abbc09fd079/transformed/jetified-hilt-android-2.38.1/AndroidManifest.xml:16:1-19:12
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/459a25199cc3ab8e71971fe5b45cdf72/transformed/jetified-glide-4.12.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b69d2caf02155c2cd2065830800089ed/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/dc44f452d2e28d373cb446cdf5d183c6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/11fe3a274d7633155060c73c53b42e38/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2992b517425f5b1eb0e7e1e755a57376/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:2:1-9:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/0951aca7f4116df6ba496ad8dca82829/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.room:room-rxjava2:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/ae6598ad309099d4fce1359a83e30071/transformed/room-rxjava2-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/8793148168ad6df87fdfd4150d685fb3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e67e94d4f26321604589c4abe3e147cd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.activity:activity:1.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/6b6069e99af03faf64895afc5d32ada7/transformed/jetified-activity-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/0142eb640e1f812dacf09f87142700c5/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b018404ddf2b5d14cf767392bf148e6a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e708cc590ebcf71c250193a7ffc34861/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/df05fcac3c4d2b28f78db2118c180c56/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/6e2caa5663c4fd4ca4ab8167db2fae77/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2e8ef477d57ca972a936147d3775f261/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/0e7df3e438b2a4c1dd3393255d4813e7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/1cd483228cf6a2773afc9d9a977ea888/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e2243c37386c3ad85ba0f2bd19eb959f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/ac499a7238157f2d502cd01e83e8c6c0/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/5b36f4f8dbb53cd4d23517e46e5ae833/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/bbe20336f59f8266462b830840dfc993/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/e18673c667357eff956c564257383748/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/4fbb0ebc6fb358252ab2e5f5cc974be1/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/11dc63c7895d19f44bcc42a0f50978db/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b84f1c98e276f956587e9607121fdbb6/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8ab69edb64ffd5849dfc8827ccc5630d/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/476ce7458f3aae014d311e0e792c1575/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/5373ca4858ed2a738310494c6daa8412/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3768b32aea4b4e028d196b7078cad6fa/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/53bf1f43af261ada4d3cc3f173e996af/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/86f65305f4af157931f996d7c994bccf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8a4d454b6e538ba74cb23bf28482f229/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2d63e7a5b15c76009285657b1972bed1/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/46fd7062b534fe7319a19b25d7f2222a/transformed/exifinterface-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8a02a7e770ef71d6c220a5f329baebcc/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/a983a1d40281a71ae979664df9e3bf39/transformed/sqlite-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/92cb89fb7f384e7fdad1385cb53976bf/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/b0ca29f4548c3754258457bb66a05bfa/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/f34d12984dc47b0ee82bad1b85eafcb1/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/50c6c49c0e97907550fcedb9db1ad0a3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/1931f9d845c5a83ac28d6ba68aaf7f6c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/c61220a77783e5ea24a0625443e014b0/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4ead4387def311045da08f5ba279b33b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/a1f3b75eb2637f48e2050f3316a87f27/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/9ba6e6fdea3a388fb489f44ccb011991/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/72a52628897be1db2b47614a4e0e0fb4/transformed/jetified-dagger-lint-aar-2.38.1/AndroidManifest.xml:16:1-19:12
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:1-27:12
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:5:5-66
+MERGED from [:data] /Users/hong_mergepoint/Desktop/study/github-user-search/data/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:data] /Users/hong_mergepoint/Desktop/study/github-user-search/data/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:domain] /Users/hong_mergepoint/Desktop/study/github-user-search/domain/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+MERGED from [:domain] /Users/hong_mergepoint/Desktop/study/github-user-search/domain/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.5.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3827a6304051f15694421e93cfabad19/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3827a6304051f15694421e93cfabad19/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/014194ec22d83ed82ad3d80d66998e50/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/014194ec22d83ed82ad3d80d66998e50/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/459a25199cc3ab8e71971fe5b45cdf72/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/459a25199cc3ab8e71971fe5b45cdf72/transformed/jetified-glide-4.12.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b69d2caf02155c2cd2065830800089ed/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b69d2caf02155c2cd2065830800089ed/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/bbe20336f59f8266462b830840dfc993/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/bbe20336f59f8266462b830840dfc993/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/e18673c667357eff956c564257383748/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/e18673c667357eff956c564257383748/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2d63e7a5b15c76009285657b1972bed1/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2d63e7a5b15c76009285657b1972bed1/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/bbe20336f59f8266462b830840dfc993/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:8:9-68
+activity#com.c0de_h0ng.presentation.view.MainActivity
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:15:9-24:20
+	android:exported
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:17:13-36
+	android:theme
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:16:13-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/3aa362c006002e72239ac2b2a2c78f8e/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-adapters:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/3aa362c006002e72239ac2b2a2c78f8e/transformed/databinding-adapters-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/a0490e35a2a739147f1295ca8f524add/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-ktx:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/a0490e35a2a739147f1295ca8f524add/transformed/jetified-databinding-ktx-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/700a0ffc6213dc237049b1ebb9f787a1/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:databinding-runtime:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/700a0ffc6213dc237049b1ebb9f787a1/transformed/databinding-runtime-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [:data] /Users/hong_mergepoint/Desktop/study/github-user-search/data/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:data] /Users/hong_mergepoint/Desktop/study/github-user-search/data/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:domain] /Users/hong_mergepoint/Desktop/study/github-user-search/domain/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:domain] /Users/hong_mergepoint/Desktop/study/github-user-search/domain/build/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/f9dba528afc527db262bc6db6c94f9b8/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/f9dba528afc527db262bc6db6c94f9b8/transformed/jetified-fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/d08ed6297d2c77527d83810315ecd657/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/d08ed6297d2c77527d83810315ecd657/transformed/jetified-activity-ktx-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/805cf83984af131879a3d056711ae83c/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/805cf83984af131879a3d056711ae83c/transformed/jetified-lifecycle-viewmodel-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/ca62552be0f7f80467cd7d4800c04541/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/ca62552be0f7f80467cd7d4800c04541/transformed/jetified-lifecycle-runtime-ktx-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/d1c44619b0f01036f633d26daa4d0a72/transformed/jetified-room-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-ktx:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/d1c44619b0f01036f633d26daa4d0a72/transformed/jetified-room-ktx-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3827a6304051f15694421e93cfabad19/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3827a6304051f15694421e93cfabad19/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/014194ec22d83ed82ad3d80d66998e50/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/014194ec22d83ed82ad3d80d66998e50/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/31d208215cbf338446d192892b2e6e02/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/31d208215cbf338446d192892b2e6e02/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/hong_mergepoint/.gradle/caches/transforms-3/286f58492e31036afda8ac21a2520c05/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.hilt:hilt-lifecycle-viewmodel:1.0.0-alpha03] /Users/hong_mergepoint/.gradle/caches/transforms-3/286f58492e31036afda8ac21a2520c05/transformed/jetified-hilt-lifecycle-viewmodel-1.0.0-alpha03/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/8b807f09f6a1ecdf49c44abbc09fd079/transformed/jetified-hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:hilt-android:2.38.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/8b807f09f6a1ecdf49c44abbc09fd079/transformed/jetified-hilt-android-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/459a25199cc3ab8e71971fe5b45cdf72/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/459a25199cc3ab8e71971fe5b45cdf72/transformed/jetified-glide-4.12.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b69d2caf02155c2cd2065830800089ed/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b69d2caf02155c2cd2065830800089ed/transformed/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/dc44f452d2e28d373cb446cdf5d183c6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/dc44f452d2e28d373cb446cdf5d183c6/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/11fe3a274d7633155060c73c53b42e38/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/11fe3a274d7633155060c73c53b42e38/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2992b517425f5b1eb0e7e1e755a57376/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2992b517425f5b1eb0e7e1e755a57376/transformed/jetified-core-ktx-1.7.0/AndroidManifest.xml:5:5-7:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/0951aca7f4116df6ba496ad8dca82829/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/0951aca7f4116df6ba496ad8dca82829/transformed/jetified-rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.room:room-rxjava2:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/ae6598ad309099d4fce1359a83e30071/transformed/room-rxjava2-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-rxjava2:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/ae6598ad309099d4fce1359a83e30071/transformed/room-rxjava2-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/8793148168ad6df87fdfd4150d685fb3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/8793148168ad6df87fdfd4150d685fb3/transformed/jetified-appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e67e94d4f26321604589c4abe3e147cd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e67e94d4f26321604589c4abe3e147cd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/6b6069e99af03faf64895afc5d32ada7/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/6b6069e99af03faf64895afc5d32ada7/transformed/jetified-activity-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/0142eb640e1f812dacf09f87142700c5/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/0142eb640e1f812dacf09f87142700c5/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b018404ddf2b5d14cf767392bf148e6a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b018404ddf2b5d14cf767392bf148e6a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e708cc590ebcf71c250193a7ffc34861/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e708cc590ebcf71c250193a7ffc34861/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/df05fcac3c4d2b28f78db2118c180c56/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/df05fcac3c4d2b28f78db2118c180c56/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/6e2caa5663c4fd4ca4ab8167db2fae77/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/6e2caa5663c4fd4ca4ab8167db2fae77/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2e8ef477d57ca972a936147d3775f261/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2e8ef477d57ca972a936147d3775f261/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/0e7df3e438b2a4c1dd3393255d4813e7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/0e7df3e438b2a4c1dd3393255d4813e7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/1cd483228cf6a2773afc9d9a977ea888/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/1cd483228cf6a2773afc9d9a977ea888/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e2243c37386c3ad85ba0f2bd19eb959f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/e2243c37386c3ad85ba0f2bd19eb959f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/ac499a7238157f2d502cd01e83e8c6c0/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/ac499a7238157f2d502cd01e83e8c6c0/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/5b36f4f8dbb53cd4d23517e46e5ae833/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/5b36f4f8dbb53cd4d23517e46e5ae833/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/bbe20336f59f8266462b830840dfc993/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/bbe20336f59f8266462b830840dfc993/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/e18673c667357eff956c564257383748/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/e18673c667357eff956c564257383748/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/4fbb0ebc6fb358252ab2e5f5cc974be1/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.3] /Users/hong_mergepoint/.gradle/caches/transforms-3/4fbb0ebc6fb358252ab2e5f5cc974be1/transformed/jetified-viewbinding-7.0.3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/11dc63c7895d19f44bcc42a0f50978db/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/11dc63c7895d19f44bcc42a0f50978db/transformed/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b84f1c98e276f956587e9607121fdbb6/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/b84f1c98e276f956587e9607121fdbb6/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8ab69edb64ffd5849dfc8827ccc5630d/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8ab69edb64ffd5849dfc8827ccc5630d/transformed/jetified-savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/476ce7458f3aae014d311e0e792c1575/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/476ce7458f3aae014d311e0e792c1575/transformed/jetified-lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/5373ca4858ed2a738310494c6daa8412/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/5373ca4858ed2a738310494c6daa8412/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3768b32aea4b4e028d196b7078cad6fa/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/3768b32aea4b4e028d196b7078cad6fa/transformed/lifecycle-viewmodel-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/53bf1f43af261ada4d3cc3f173e996af/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/53bf1f43af261ada4d3cc3f173e996af/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/86f65305f4af157931f996d7c994bccf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/86f65305f4af157931f996d7c994bccf/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8a4d454b6e538ba74cb23bf28482f229/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8a4d454b6e538ba74cb23bf28482f229/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2d63e7a5b15c76009285657b1972bed1/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.12.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2d63e7a5b15c76009285657b1972bed1/transformed/jetified-gifdecoder-4.12.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/46fd7062b534fe7319a19b25d7f2222a/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/46fd7062b534fe7319a19b25d7f2222a/transformed/exifinterface-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8a02a7e770ef71d6c220a5f329baebcc/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8a02a7e770ef71d6c220a5f329baebcc/transformed/sqlite-framework-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/a983a1d40281a71ae979664df9e3bf39/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/a983a1d40281a71ae979664df9e3bf39/transformed/sqlite-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/92cb89fb7f384e7fdad1385cb53976bf/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/92cb89fb7f384e7fdad1385cb53976bf/transformed/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/b0ca29f4548c3754258457bb66a05bfa/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/b0ca29f4548c3754258457bb66a05bfa/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/f34d12984dc47b0ee82bad1b85eafcb1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/f34d12984dc47b0ee82bad1b85eafcb1/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/50c6c49c0e97907550fcedb9db1ad0a3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/50c6c49c0e97907550fcedb9db1ad0a3/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/1931f9d845c5a83ac28d6ba68aaf7f6c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/1931f9d845c5a83ac28d6ba68aaf7f6c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/c61220a77783e5ea24a0625443e014b0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/c61220a77783e5ea24a0625443e014b0/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4ead4387def311045da08f5ba279b33b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4ead4387def311045da08f5ba279b33b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/a1f3b75eb2637f48e2050f3316a87f27/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/a1f3b75eb2637f48e2050f3316a87f27/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/9ba6e6fdea3a388fb489f44ccb011991/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/9ba6e6fdea3a388fb489f44ccb011991/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/72a52628897be1db2b47614a4e0e0fb4/transformed/jetified-dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+MERGED from [com.google.dagger:dagger-lint-aar:2.38.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/72a52628897be1db2b47614a4e0e0fb4/transformed/jetified-dagger-lint-aar-2.38.1/AndroidManifest.xml:18:3-42
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		ADDED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+		INJECTED from /Users/hong_mergepoint/Desktop/study/github-user-search/presentation/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.4.1] /Users/hong_mergepoint/.gradle/caches/transforms-3/9d02e5ed6347c30189e8d1e996ecffa6/transformed/room-runtime-2.4.1/AndroidManifest.xml:26:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/2f4b2aaa8932feb912fd1e8a65f01f35/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/4aece59b583498ddfe4c9f8e13f88d33/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/hong_mergepoint/.gradle/caches/transforms-3/8e34133f4daf5797bd3b7350c16d4ddd/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
