@@ -8,5 +8,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "GitHub-user-search"
 include ':presentation'
-include ':data'
 include ':domain'
+include ':data'
